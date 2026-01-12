@@ -12,9 +12,9 @@ To reproduce the VCS rad factors reported in the previous documents
 
 ## Todos
 
-- [x] $delta_{vac}$
-- [x] $delta_{virtual}$
-- [ ]   $delta_R$
-- [ ]   $delta_1$
-- [ ]   $delta^{(0)}_2$
+- [x] $\delta_{vac}$
+- [x] $\delta_{virtual}$
+- [ ]   $\delta_R$
+- [ ]   $\delta_1$
+- [ ]   $\delta^{(0)}_2$
 
