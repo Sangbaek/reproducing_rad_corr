@@ -14,7 +14,8 @@ To reproduce the VCS rad factors reported in the previous documents
 
 - [x] $\delta_{vac}$
 - [x] $\delta_{virtual}$
-- [ ]   $\delta_R$
-- [ ]   $\delta_1$
-- [ ]   $\delta^{(0)}_2$
-
+- [x] $\delta_R$
+- [x] $\delta_1$
+- [x] $\delta^{(0)}_2$
+- [ ] Create the rad factor tables and document dedicated to the VCS-II experiment
+- [ ] Change the name of repository.
